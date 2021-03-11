@@ -34,9 +34,11 @@ def create_app(config_class=Config):
     from school_app.users.routes import users
     from school_app.posts.routes import posts
     from school_app.main.routes import main
+    from school_app.errors.handlers import errors
 
     app.register_blueprint(users)
     app.register_blueprint(posts)
     app.register_blueprint(main)
+    app.register_blueprint(errors)
 
     return app
