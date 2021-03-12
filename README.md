@@ -1,4 +1,7 @@
-# Full Stack Application - Part A
+# Full Stack Application - Part B
+
+[GitHub Link]("https://github.com/habibah-adam/uyghur_school")
+[AWS Link]("http://18.132.120.125/")
 
 ## Introduction
 
