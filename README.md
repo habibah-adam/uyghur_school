@@ -1,7 +1,15 @@
 # Full Stack Application - Part B
 
 [GitHub Link]("https://github.com/habibah-adam/uyghur_school")
-[AWS Link]("http://18.132.120.125/")
+[AWS Link]("http://18.132.120.125/")`
+*Feature Test Credentials*: 
+- Teacher Account:
+    - email: hebibe2s@gmail.com
+    - password: 0Password1
+- Parents Account:
+    - Any newly created account is set as Parent
+    - Only Teachers are configured as teacher account via backend in the database.
+    - To Test parent account, please use *register* link to create an account and use that account to login and test.
 
 ## Introduction
 
