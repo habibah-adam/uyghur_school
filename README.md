@@ -1,7 +1,7 @@
 # Full Stack Application - Part B
 
-[GitHub Link]("https://github.com/habibah-adam/uyghur_school")
-[AWS Link]("http://18.132.120.125/")
+[GitHub Link](https://github.com/habibah-adam/uyghur_school)
+[AWS Link](http://18.132.120.125/)
 
 *Feature Test Credentials*: 
 - Teacher Account:
